@@ -1,0 +1,7 @@
+﻿  flight.cpp
+  flightSystem.cpp
+D:\cs2.1\数据结构和算法\航空大作业\xiecheng\flightSystem.cpp(126,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main02.cpp
+  正在生成代码...
+D:\cs2.1\数据结构和算法\航空大作业\xiecheng\flightSystem.cpp(86,1): warning C4715: “compare”: 不是所有的控件路径都返回值
+  xiecheng.vcxproj -> D:\cs2.1\数据结构和算法\航空大作业\xiecheng\x64\Debug\xiecheng.exe
