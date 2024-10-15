@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightInfoChanging.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|solutionrelative:flightInfoChanging.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\main02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|solutionrelative:main02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightInfoChanging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|solutionrelative:flightInfoChanging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|solutionrelative:flightSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|solutionrelative:flightSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\Flight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|solutionrelative:Flight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80C4096-CFF0-42B4-A715-7AB1593D3B52}|xiecheng.vcxproj|solutionrelative:flight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "flightInfoChanging.h",
+              "DocumentMoniker": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightInfoChanging.h",
+              "RelativeDocumentMoniker": "flightInfoChanging.h",
+              "ToolTip": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightInfoChanging.h",
+              "RelativeToolTip": "flightInfoChanging.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-14T14:04:08.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "flightInfoChanging.cpp",
+              "DocumentMoniker": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightInfoChanging.cpp",
+              "RelativeDocumentMoniker": "flightInfoChanging.cpp",
+              "ToolTip": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightInfoChanging.cpp",
+              "RelativeToolTip": "flightInfoChanging.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswGgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T14:03:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main02.cpp",
+              "DocumentMoniker": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\main02.cpp",
+              "RelativeDocumentMoniker": "main02.cpp",
+              "ToolTip": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\main02.cpp",
+              "RelativeToolTip": "main02.cpp",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAANsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T08:10:44.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "flight.cpp",
+              "DocumentMoniker": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flight.cpp",
+              "RelativeDocumentMoniker": "flight.cpp",
+              "ToolTip": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flight.cpp",
+              "RelativeToolTip": "flight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T13:21:20.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flight.h",
+              "DocumentMoniker": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\Flight.h",
+              "RelativeDocumentMoniker": "Flight.h",
+              "ToolTip": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\Flight.h",
+              "RelativeToolTip": "Flight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-02T16:15:25.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "flightSystem.h",
+              "DocumentMoniker": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightSystem.h",
+              "RelativeDocumentMoniker": "flightSystem.h",
+              "ToolTip": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightSystem.h",
+              "RelativeToolTip": "flightSystem.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-02T13:16:39.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "flightSystem.cpp",
+              "DocumentMoniker": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightSystem.cpp",
+              "RelativeDocumentMoniker": "flightSystem.cpp",
+              "ToolTip": "D:\\cs2.1\\\u6570\u636E\u7ED3\u6784\u548C\u7B97\u6CD5\\\u822A\u7A7A\u5927\u4F5C\u4E1A\\xiecheng\\flightSystem.cpp",
+              "RelativeToolTip": "flightSystem.cpp",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAANcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T17:36:10.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
